@@ -1,0 +1,8 @@
+.venv
+.env
+.txt
+__pycache__
+data/IshaViragi_Resume_v1.pdf
+data/resume.json
+chroma_resume_db
+

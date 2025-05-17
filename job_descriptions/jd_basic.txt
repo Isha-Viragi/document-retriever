@@ -1,0 +1,49 @@
+Location
+250 Consumers Road, North York, ON M2J 4V6
+&nbsp;
+Full job description
+Esiance Inc. seeks a Full-Time Full Stack Web Application Developer to join our Technology team. We’re looking for an individual who’s passionate about building high-performance web applications using PHP and modern frameworks. As part of our dynamic development team, you will be responsible for developing, maintaining, and improving web-based solutions that drive real impact. The ideal candidate will be proficient in both front-end and back-end development, with a strong understanding of secure web development principles and practices. This is a hands-on role and is ideal for someone who loves to problem solve, collaborate with cross-functional teams, and make a tangible impact on application performance and security.
+
+This is a full-time, in-office position located in Toronto, Canada (M2J 4V6).
+
+Key Responsibilities
+
+Design, develop, test, and deploy robust web applications and utilities using PHP and Python
+Develop and maintain front-end components using HTML, CSS, JavaScript, jQuery, and Bootstrap (or equivalent)
+Work with frameworks such as Zend, Laravel, or similar PHP MVC frameworks
+Collaborate with designers, developers, and stakeholders to create responsive, scalable, and user-friendly interfaces
+Optimize and maintain MySQL databases or equivalent back-end systems
+Configure and optimize Linux (Ubuntu) services and applications
+Integrate APIs and handle data in XML/JSON formats
+Manage deployment to virtual servers on Microsoft Azure and AWS
+Contribute to all stages of the software development lifecycle
+Participate in development of CI/CD pipeline
+Write clean, secure, maintainable code and follow web standards and best practices
+Troubleshoot, debug, and upgrade existing systems
+Participate in code reviews, project planning, and team meetings.
+The compensation for this role offers a range from $80,000 - $90,000 CAD. The final offer will be determined based on the candidate's experience and expertise, as assessed during the interview process.
+
+About Esiance Inc.
+
+Established in 2009, Esiance has delighted more than 3 million Canadians through its white-label gift card platforms. Esiance powers gift card programs for financial institutions, loyalty programs, healthcare organizations, research-focused academic institutions and thousands of other Canadian companies who use gift cards to show appreciation to employees, clients and supporters. We work directly with over 150 of Canada’s favourite brands, including Tim Hortons, Amazon, Hudson’s Bay, Petro Canada, McDonalds, and Loblaws to offer its clients and recipients the best selection of digital or physical gift cards to choose from.
+
+As creators of the innovative EverythingCard, we’re seeking a proactive and driven individual to join our team as an Inbound Sales Representative. Our platform revolutionizes corporate gifting by providing an all-in-one solution that enables companies and recipients to access multiple gift cards through a single redemption code. As part of Canada’s leading corporate gifting platform, you’ll streamline processes for prominent businesses and organizations nationwide.
+
+Reference ID: ESI-TECH-021025
+
+Job Type: Full-time
+
+Pay: $80,000.00-$90,000.00 per year
+
+Schedule:
+
+Monday to Friday
+Ability to commute/relocate:
+
+North York, ON M2J 4V6: reliably commute or plan to relocate before starting work (required)
+Language:
+
+English (required)
+Work Location: In person
+
+Expected start date: 2025-05-05

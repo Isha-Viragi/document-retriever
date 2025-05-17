@@ -1,0 +1,3 @@
+- keep an eye out for BOLD text
+  might get lost unless markdown
+  

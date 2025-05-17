@@ -1,0 +1,52 @@
+Full job description
+Join Our Mission: Help the Helpers with Jane
+
+Let’s kick things off with a quick intro. Jane is a team that’s all about fostering growth, spreading delight, and serving our healthcare community. We’re looking for people who are ready to jump in and join us as we simplify the lives of healthcare practitioners and patients every day.
+
+At Jane, success means collaborating with your team, delivering an aligned result with efficiency and quality, communicating clearly and openly, and embracing continuous improvement. And guess what? Jane is a remote-first company, so every role, including this one, gives you the freedom to work from anywhere in Canada.
+
+Your Role in Our Journey
+
+As an Intermediate Full Stack Software Developer on our Demo & Sign Up team, you'll play a key role in enhancing the experience for potential clients during their final steps before officially joining Jane. You’ll focus on developing features that drive user acquisition, innovate and streamline the sign-up and demo processes, and build frameworks for data-driven experimentation. This role is perfect for someone passionate about solving complex problems and delivering impactful, customer-focused solutions.
+
+Learn More About Us
+
+We're founder-led, which means we live our values while maintaining a clear vision for the future. Our product enables the likes of physiotherapists, mental health counsellors, chiropractors, and other allied health practitioners to run their practices in a digital-first way through features such as online booking, charting, scheduling, telehealth, secure payments and billing along with an evolving library of features. You can see more of them here.
+
+We're a company that is growing rapidly, and with that comes the challenge of navigating an environment with many moving parts, often without a clear-cut path laid out in front of us. If you're the kind of person who gets a kick out of being resourceful and loves solving problems, we would love to hear from you.
+
+No doubt, Jane's a special place to work. There is autonomy and flexibility to help integrate work into your life in a way that makes sense for you. Need to block out time to pick up the kids? Go for it. That's normal here. And yes, we have a Slack channel for parents, but we've also got channels dedicated to plants, furry friends, food, pride, wellness - you get the idea! While we love to connect virtually, the Jane team also connects in person throughout the year.
+
+We believe in collaboration, humility, and keeping a growth mindset. We're looking for people who can embrace our way of working, which often means being flexible and open to change. So, if after reading this, you feel excited about the opportunity — all in the name of helping those who help others — reach out to us to learn more.
+
+You can also learn more about Jane as a company and a product by checking out our Glassdoor reviews and our Capterra Reviews
+
+If you're excited by our growth, ready to contribute to a challenging yet rewarding environment, and eager to be a disruptor alongside a team of talented individuals, we’d love to hear from you!
+The impact you could have
+Implement changes and experiments across the stack (frontend and backend) to enhance the Demo and Sign up experiences and reduce churn for our customers.
+Contribute to the Jane codebase, focusing on customer-facing components and key admin pages.
+Collaborate with various product team domains to improve the overall early Jane experience.
+Produce high-quality, well-tested code that ensures a reliable product for our users.
+Participate in code reviews, production deploys, and team activities to support continuous improvement and collaboration.
+The experience we feel we need
+A University Degree in Computer Science or a STEM Degree plus approximately 3+ years of hands-on experience as a Software Engineer.
+Great Software Engineers come from all kinds of backgrounds, and we value diverse experiences. At Jane, we offer different paths into engineering, including a 3-year Development Program for those transitioning from non-technical roles. To keep our teams balanced, we're looking for someone with a Computer Science or STEM degree. This helps us support different learning journeys while building a strong, well-rounded engineering team.
+A commitment to continuous learning and improvement in all aspects of the developer role, with a focus on growing into an expert in one or more technical domains.
+Ability to independently take on clearly defined projects, implementing them with minimal guidance or course correction. Demonstrates a proactive approach to problem-solving and delivering results.
+You have experience working with predefined tasks or projects, with the ability to help more senior team members in defining new tasks and actively contributing as an engaged and collaborative team player.
+Our development team at Jane primarily works with Ruby on Rails, but we welcome applicants with experience in other OOP languages (Java, C#, Python, etc.). We strongly believe that great developers can learn any tech stack, so you’ll have the resources and support needed to ramp up on ours if you haven't worked with it previously. Please don't hesitate to apply!
+Compensation Expectations for the Role
+
+Jane’s committed to paying our team members fairly, clearly, and above all, paying for growth. This role has a minimum annual salary of $95,100 and maximum annual salary of $142,600. As you may have noticed, this salary range is quite large, and this is intentional to account for the growth someone will experience in the role throughout their time at Jane (i.e., from building the skills, to accomplished, to highly proficient, all the way to achieving excellence in the role). When hiring talented folks to join the Jane team, we’ve found that new team members are best set up for success when hired with the expectation of being fully accomplished in the role, which for this role would reflect a starting salary of $112,900.
+It's also possible to join Jane at a salary above or below this, which would mean a salary below $112,900 typically reflects someone who has all the potential to be fully accomplished in the role but doesn't yet possess all the skills required, while a salary above $112,900 is typically for individuals who are currently in this role at Jane and had the opportunity to make a significant positive impact on our customers, product and company with deep Jane knowledge. At Jane, we pay for growth, which means that you’ll continue to have conversations about your career development with your manager and see your compensation grow over time as you build an amazing career with us.
+
+Paying clearly is one of our compensation fundamentals to help folks build trust in the compensation process at Jane. To better understand Jane’s compensation fundamentals and how this range is determined, click on this link here for a short video walkthrough of how it all works! We also welcome you to ask as many questions as you’d like about compensation throughout the interview process to ensure you feel confident and build trust through the process.
+
+More information on our benefits can be found here!
+
+At Jane, we’re committed to fostering an environment that allows you to come to work as your truest self. We believe it’s important to actively recognize, embrace, and celebrate our differences in order to make Jane an inclusive, equitable, and diverse workplace.
+
+We want to build a team of people who make conversations rich with perspective and experience. We are committed to listening to every voice in order to learn and grow because doing this will allow us to meet the needs of the diverse community of helpers that Jane serves.
+
+We do not tolerate discrimination, prejudice, or oppressive isms of any kind. Employment is decided on the basis of qualifications, merit, experience, and the needs of the Jane community. We encourage anyone who requires accommodation or adjustments throughout the interview process to let us know, and we will do our best to support you.
+&nbsp;

@@ -1,0 +1,52 @@
+About the job
+Veeva Systems is a mission-driven organization and pioneer in industry cloud, helping life sciences companies bring therapies to patients faster. As one of the fastest-growing SaaS companies in history, we surpassed $2B in revenue in our last fiscal year with extensive growth potential ahead.
+
+At the heart of Veeva are our values: Do the Right Thing, Customer Success, Employee Success, and Speed. We're not just any public company – we made history in 2021 by becoming a public benefit corporation (PBC), legally bound to balancing the interests of customers, employees, society, and investors.
+
+Join us in transforming the life sciences industry, committed to making a positive impact on its customers, employees, and communities.
+
+The Role
+
+If you are a recent engineering graduate, then Veeva's Engineering Development Program (EDP) is a perfect way to learn and build highly scalable multi-tenant cloud software. As a new full-stack, front-end, or back-end engineer, you will work with seasoned Product and Engineering leaders in small teams to bring software innovation to customers around the world. Software development embraces a fast-paced and agile environment where product and engineering teams will see their work released every month. Along with speed, you will find Veeva different because no matter what your level of experience, we want your input at the design table. Help us think differently and more efficiently to design our solutions. In the EDP program, you will be expected to contribute to technical and functional design discussions and participate in all stages of the software development lifecycle.
+
+At time of application, please attach the most updated version of your academic transcript, if applicable.
+
+Qualified candidates must be legally authorized to work in Canada. Veeva does not provide sponsorship for employment visa status for this position.
+
+This position requires you to work in the office 4 days/week for your first two years. After 2 years, you will have the flexibility to Work Anywhere.
+
+Requirements
+
+Located near Toronto, Ontario, and able to work in the office 4 days/week
+Strong computer science fundamentals (data structures, algorithms, and object-oriented design)
+Desire to work in enterprise software
+Proficient in Java
+Bachelor's Degree in Computer Science, Engineering, or Physics with a 3.3 GPA or higher
+Don't have a university degree? That's OK if you have the equivalent skills gained through work experience or disciplined self-study
+
+Nice to Have
+
+Working knowledge of frontend technologies such as JavaScript, HTML, and React
+Working knowledge of relational databases
+Relevant internship/project experience is a plus
+
+Learn More
+
+Engineer Perspective: 3 Reasons to Consider Veeva
+Life at Veeva: Generation Veeva
+
+Perks & Benefits
+
+Medical, dental, vision, and basic life insurance
+PTO and company-paid holidays
+Retirement programs
+1% charitable giving program
+
+Compensation
+
+Base pay: $90,000 - $115,000
+This role offers a comprehensive benefits package. The salary range for this position represents the potential base salary for this position. The actual salary will vary based on market and expected contributions.
+
+Veeva’s headquarters is located in the San Francisco Bay Area with offices in more than 15 countries around the world.
+
+Veeva is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, sex, sexual orientation, gender identity or expression, religion, national origin or ancestry, age, disability, marital status, pregnancy, protected veteran status, protected genetic information, political affiliation, or any other characteristics protected by local laws, regulations, or ordinances. If you need assistance or accommodation due to a disability or special need when applying for a role or in our recruitment process, please contact us at talent_accommodations@veeva.com.
